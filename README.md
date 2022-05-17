@@ -1,4 +1,4 @@
-# Quarkus/AMQ Broker interaction via AMQP 1.0
+# Quarkus-AMQ Broker interaction via AMQP 1.0
 This project allows, automatically and quickly through a Bash script, to run locally two Quarkus applications and an AMQ Broker interacting with each other via the AMQP 1.0 protocol.
 
 ## Table of contents
